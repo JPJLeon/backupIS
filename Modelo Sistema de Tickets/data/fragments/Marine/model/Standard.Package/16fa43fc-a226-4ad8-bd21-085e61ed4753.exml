@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="diagrama de clase" version="4">
+  <OBJECT>
+    <ID name="diagrama de clase" mc="Standard.Package" uid="16fa43fc-a226-4ad8-bd21-085e61ed4753"/>
+    <PID name="Marine" mc="Standard.Project" uid="6f98796b-dc06-4404-bc60-1c851731ea98"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[diagrama de clase]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="vistas" mc="Standard.Package" uid="32a1d0cf-4f19-41cd-b2b1-6386bc3738f2"/>
+        <COMPID name="Controlador" mc="Standard.Package" uid="b0b6e15a-7b84-407c-8d25-1ea5a4d12e97"/>
+        <COMPID name="Modelo" mc="Standard.Package" uid="e04150cd-6ee9-4e5c-bebf-8957bd3d6794"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="diagrama de clase Class diagram" mc="Standard.ClassDiagram" uid="865a73f3-7686-43ee-89dd-2e81cd43d0a7"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
